@@ -5,6 +5,7 @@ const App = () => {
   return (
     <div>
       <UseRef />
+      <p>git update test</p>
     </div>
   );
 };
